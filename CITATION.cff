@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this Project/Proof of Concept, please cite it as below."
+authors:
+  - family-names: PRABHAKAR
+    given-names: RAJA VADHANA
+title: "NLPAPP"
+version: 1.0.0
+date-released: 2026-04-29
+url: "https://github.com/vad-source/NLPAPP"
