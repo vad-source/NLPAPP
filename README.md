@@ -10,7 +10,7 @@ PRABHAKAR, RAJA VADHANA. (2026). *NLPAPP* CODE. GitHub. https://github.com/vad-s
 ```bibtex
 @software{RAJAVADHANA@2026,
   author = {PRABHAKAR, RAJA VADHANA},
-  title = {{NLPAPPLICATION}},
+  title = {{NLPAPP}},
   url = {https://github.com/vad-source/NLPAPP},
   year = {2026}
 }
