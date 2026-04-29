@@ -6,5 +6,11 @@ For licensing details, see [LICENSE](./LICENSE) and [NOTICE](./NOTICE).
 ## How to Cite
 If you use this project/Proof-of-Concept for your academic training or research, please cite it as:
 
-**APA Style:**
-PRABHAKAR, RAJA VADHANA. (2026). *NLPAPP* CODE. 
+PRABHAKAR, RAJA VADHANA. (2026). *NLPAPP* CODE. GitHub. https://github.com/vad-source/NLPAPP
+```bibtex
+@software{RAJAVADHANA@2026,
+  author = {PRABHAKAR, RAJA VADHANA},
+  title = {{NLPAPPLICATION}},
+  url = {https://github.com/vad-source/NLPAPP},
+  year = {2026}
+}
